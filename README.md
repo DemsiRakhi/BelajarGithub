@@ -8,4 +8,3 @@
 ![7](https://github.com/DemsiRakhi/BelajarGithub/blob/master/7.JPG)
 ![8](https://github.com/DemsiRakhi/BelajarGithub/blob/master/8.JPG)
 ![9](https://github.com/DemsiRakhi/BelajarGithub/blob/master/9.JPG)
-Seeder
